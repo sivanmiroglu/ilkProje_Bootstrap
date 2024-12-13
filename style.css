@@ -1,0 +1,31 @@
+.navbar-bg{
+	background-color: #2c3e50;
+}
+.herosection-bg{
+	background-color: #1bbc9b;
+}
+.profile-heading{
+	font-size:57px;
+}
+.profile-heading2{
+	font-size:1.5rem;
+}
+.portfolio-heading{
+	font-size:36px;
+	color: #2c3e50;
+}
+.about-container{
+background-color: #1bbc9b;
+}
+.about-heading{
+	font-size:32px;
+}
+.footer-conatiner{
+	background-color: #2c3e50;
+}
+.footer-link{
+	color: #4bf8d5;
+}
+.copyright{
+	background-color: #061625;
+}
